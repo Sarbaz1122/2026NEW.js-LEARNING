@@ -16,9 +16,11 @@ console.log(name,age ,city, language,country);
 // price = "30000"
 
 // const company = "HP";
-// const company= "dell";
+// const company= "dell";  it give the bug 
 
 // // ASSIGNMENT NO.3
+// check according to the rules of variable name
+
 // userName  // correct
 // User_Name    // correct
 // $user        // correct

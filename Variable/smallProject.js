@@ -20,7 +20,6 @@
 // while let does not. Also, var is function-scoped and let is block-scoped.
 
                //Q2. why const must have an initial value?
-
                //ans.const must have an initial value because its 
                // value is fixed and cannot be reassigned after declaration.
 

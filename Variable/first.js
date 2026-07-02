@@ -34,7 +34,7 @@ console.log(isFollow);
 //  only letters A to z) , digits 123), underscore -_) ,
 //  and $ sing are used 
 
-//NO.3 only only a letters , $ and underscore should be
+//NO.3 only a letters , $ and underscore should be
 //1st character.
 
 //NO.4 
@@ -55,7 +55,7 @@ var price = 120;
 console.log(age);
 
 
-// let cannot re- but  can be  update. A block
+// let cannot re-DECLARE but  can be  update. A block
 //e.g
 let name = "khan";
 name = "hj";
@@ -79,9 +79,7 @@ console.log(no);
 
 //  const b; // MUST BE Need  TO initialize value
 //  console.log(b);
-// git add .
-// git commit -m "First commit"
-// git push -u origin main
+
 
 
 
