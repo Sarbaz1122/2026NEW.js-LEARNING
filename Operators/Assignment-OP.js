@@ -1,4 +1,10 @@
 // ASSIGNMENT OPERATORS
+//::Assignment operators are used to assign a value to a variable 
+// or update its value by performing a calculation and storing the result.
+
+///MOSTLY USE 
+//---Assignment operators are mostly used to update variable values 
+// in loops, counters, shopping carts, games, banking apps, and calculations.
 // e.g +=
 
 console.log("ASSIGNMENT OPERATORS");

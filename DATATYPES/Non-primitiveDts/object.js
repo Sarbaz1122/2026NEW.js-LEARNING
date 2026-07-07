@@ -1,5 +1,5 @@
 /////OBJECT is a collection of values it store value in key pairs 
-// i mean key:value 
+// i mean key:value PAIRS 
 
 const students = {
     name: "khan",
