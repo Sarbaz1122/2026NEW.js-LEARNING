@@ -1,0 +1,52 @@
+
+ *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial;
+}
+
+body{
+    background:#f1f5f9;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.atm{
+
+    width:350px;
+    background:white;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 0 15px gray;
+    text-align:center;
+
+}
+
+input{
+
+    width:100%;
+    padding:10px;
+    margin:20px 0;
+    font-size:18px;
+
+}
+
+button{
+
+    width:100%;
+    padding:12px;
+    margin:8px 0;
+    cursor:pointer;
+    font-size:18px;
+
+}
+
+#message{
+
+    margin-top:20px;
+    color:green;
+
+}
